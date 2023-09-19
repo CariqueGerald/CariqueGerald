@@ -1,4 +1,4 @@
-<img alt="banner" width="100%" height="250px" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
+<img alt="banner" width="100%" height="250px" src="gallery.gif">
 <h1 align="center">Hi 👋, I'm Carique Gerald</h1>
 <h3 align="center">Camarines Sur Polytechnic Colleges Student</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdudm9qYWZrcjQ4YnBmc3Y0cjQ3Zm13N3I3cHdrcThuNDBmbXlqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">

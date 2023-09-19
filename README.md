@@ -1,11 +1,11 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://user-images.githubusercontent.com/83378141/119193317-7438e300-ba4f-11eb-8b73-2ddb4fc84af5.gif)
+<img alt="banner" width="100%" src="https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif">
 <h1 align="center">Hi 👋, I'm Carique Gerald</h1>
 <h3 align="center">Camarines Sur Polytechnic Colleges Student</h3>
-(img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdudm9qYWZrcjQ4YnBmc3Y0cjQ3Zm13N3I3cHdrcThuNDBmbXlqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif")
+<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdudm9qYWZrcjQ4YnBmc3Y0cjQ3Zm13N3I3cHdrcThuNDBmbXlqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cariquegerald&label=Profile%20views&color=0e75b6&style=flat" alt="cariquegerald" /> </p>
 
-- 🌱 I’m currently learning **JS,PHP,NASM,**
+- 🌱 I’m currently learning **JS,PHP,NASM**
 
 - 💬 Ask me about **PC,Laptops,Android Phone**
 

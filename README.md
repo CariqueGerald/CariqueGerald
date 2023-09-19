@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cariquegerald&label=Profile%20views&color=0e75b6&style=flat" alt="cariquegerald" /> </p>
 
-- 🌱 I’m currently learning **JS,PHP,NASM**
+- 🌱 I’m currently learning **JS, PHP, NASM**
 
-- 💬 Ask me about **PC,Laptops,Android Phone**
+- 💬 Ask me about **PC, Laptops, Android Phone**
 
 - 📫 How to reach me **gecariqueofficial@gmail.com**
 

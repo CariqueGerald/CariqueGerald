@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cariquegerald&label=Profile%20views&color=0e75b6&style=flat" alt="cariquegerald" /> </p>
 
-<h2>Bachelor of Science in Computer Science</h2>
+<h3>Bachelor of Science in Computer Science</h3>
 
 - 🌱 Currently Learning Cyber Security Concepts
 

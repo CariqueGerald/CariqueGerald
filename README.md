@@ -2,7 +2,7 @@
 <img align="right" alt="Coding" width="400" height="250" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTdudm9qYWZrcjQ4YnBmc3Y0cjQ3Zm13N3I3cHdrcThuNDBmbXlqNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cariquegerald&label=Profile%20views&color=0e75b6&style=flat" alt="cariquegerald" /> </p>
 
-<h3>Bachelor of Science in Computer Science</h3>
+<h3>🎓 Bachelor of Science in Computer Science</h3>
 
 - 🌱 Learning Cyber Security Concepts
 

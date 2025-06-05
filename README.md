@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cariquegerald&label=Profile%20views&color=0e75b6&style=flat" alt="cariquegerald" /> </p>
 
-- 🌱 Currently learning Cyber Security
+- 🌱 Currently Learning Cyber Security Concepts
 
 - 💬 Ask me about **Laptops, PC, Android, Raspberry Pi, Arduino, and Gaming**
 

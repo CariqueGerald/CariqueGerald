@@ -4,7 +4,7 @@
 
 <h3>Bachelor of Science in Computer Science</h3>
 
-- 🌱 Currently Learning Cyber Security Concepts
+- 🌱 Learning Cyber Security Concepts
 
 - 💬 Ask me about **Laptops, PC, Android, Raspberry Pi, Arduino, and Gaming**
 
